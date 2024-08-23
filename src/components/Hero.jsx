@@ -21,7 +21,7 @@ const Hero = () => {
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connect Me
           </button>
         </a>
-        <a href='https://drive.google.com/file/d/1cNkYQ6asLxJNcz9mP2Acnp_ZokHs85AV/view?usp=sharing' target='_blank'>
+        <a href='https://drive.google.com/file/d/1Cy1lQQs5c1jtfowTjUADCwk9eFkwRTiP/view?usp=sharing' target='_blank'>
           <button
             className='bg-gradient-to-r from-gray-800 to-gray-900 text-white
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>
